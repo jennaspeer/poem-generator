@@ -53,10 +53,10 @@ footer {
   font-size: 16px;
 }
 .poem {
+  height: auto;
   font-size: 16px;
   background-color: white;
   padding: 20px;
-  line-height: 2px;
   border-left: 3px solid rgb(118, 184, 118);
   box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
 }
